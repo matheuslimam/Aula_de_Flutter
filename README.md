@@ -4,7 +4,7 @@ Bem-vindo ao repositório da **Aula de Flutter**! Aqui você encontrará o códi
 
 ## 📚 Conteúdo
 
-- **Slides da Aula**: [Link para os slides](#) (adicione o link aqui)
+- **Slides da Aula**: [Link para os slides](https://github.com/matheuslimam/Aula_de_Flutter/tree/main/slides) 
 - **Código do Projeto**: O código do app construído durante a aula está na pasta `src/`.
 
 ## 🛠 Tecnologias Utilizadas
@@ -22,6 +22,16 @@ Bem-vindo ao repositório da **Aula de Flutter**! Aqui você encontrará o códi
 4. **Árvore de Widgets**: A estrutura hierárquica dos widgets.
 5. **Personalização**: Como modificar propriedades de widgets para criar interfaces únicas.
 6. **Packages**: Adicionar funcionalidades externas ao app com pacotes Flutter.
+
+## 📺 Recursos Adicionais
+
+Aqui estão alguns links úteis para aprender mais sobre o Flutter e Dart:
+
+- **Como instalar o Flutter**: [Assista no YouTube](https://youtu.be/dpppZ9ySJSY?si=nAG5f8te9ST_Tokd)
+- **Introdução ao Dart/Flutter**: [Assista no YouTube](https://www.youtube.com/live/b4ZxFLW7neQ?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg)
+- **Flutter do Básico ao Avançado (EN)**: [Assista no YouTube](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- **Flutter do Básico ao Avançado (PT-BR)**: [Assista no YouTube](https://www.youtube.com/watch?v=fgloD9-8GNE&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx)
+
 
 ## 📂 Estrutura do Projeto
 
