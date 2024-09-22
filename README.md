@@ -1,4 +1,4 @@
-# Aula de Flutter - Introdução ao Desenvolvimento de Apps com Flutter
+# Aula de Flutter - Empreendedorismo Digital com Flutter
 
 Bem-vindo ao repositório da **Aula de Flutter**! Aqui você encontrará o código e os slides utilizados durante a apresentação. O objetivo da aula é introduzir os principais conceitos do Flutter, como widgets, a linguagem Dart, e a construção de interfaces de usuário, através de uma abordagem prática e interativa.
 
